@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="cards">
+        <item>@drawable/card_001</item>
+        <item>@drawable/card_002</item>
+        <item>@drawable/card_003</item>
+        <item>@drawable/card_004</item>
+        <item>@drawable/card_005</item>
+        <item>@drawable/card_006</item>
+        <item>@drawable/card_007</item>
+        <item>@drawable/card_008</item>
+        <item>@drawable/card_009</item>
+        <item>@drawable/card_010</item>
+        <item>@drawable/card_011</item>
+        <item>@drawable/card_012</item>
+        <item>@drawable/card_013</item>
+        <item>@drawable/card_014</item>
+        <item>@drawable/card_015</item>
+        <item>@drawable/card_016</item>
+        <item>@drawable/card_017</item>
+        <item>@drawable/card_018</item>
+        <item>@drawable/card_019</item>
+        <item>@drawable/card_020</item>
+        <item>@drawable/card_021</item>
+        <item>@drawable/card_022</item>
+        <item>@drawable/card_023</item>
+        <item>@drawable/card_024</item>
+        <item>@drawable/card_025</item>
+        <item>@drawable/card_026</item>
+        <item>@drawable/card_027</item>
+        <item>@drawable/card_028</item>
+        <item>@drawable/card_029</item>
+        <item>@drawable/card_030</item>
+        <item>@drawable/card_031</item>
+        <item>@drawable/card_032</item>
+        <item>@drawable/card_033</item>
+        <item>@drawable/card_034</item>
+        <item>@drawable/card_035</item>
+        <item>@drawable/card_036</item>
+        <item>@drawable/card_037</item>
+        <item>@drawable/card_038</item>
+        <item>@drawable/card_039</item>
+        <item>@drawable/card_040</item>
+        <item>@drawable/card_041</item>
+        <item>@drawable/card_042</item>
+        <item>@drawable/card_043</item>
+        <item>@drawable/card_044</item>
+        <item>@drawable/card_045</item>
+        <item>@drawable/card_046</item>
+        <item>@drawable/card_047</item>
+        <item>@drawable/card_048</item>
+        <item>@drawable/card_049</item>
+        <item>@drawable/card_050</item>
+        <item>@drawable/card_051</item>
+        <item>@drawable/card_052</item>
+    </array>
+</resources>
